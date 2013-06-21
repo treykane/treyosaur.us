@@ -23,7 +23,7 @@
 		</form>
 		</div>
 		<div class="trey">
-			<img class="pic" src="/images/pic.png" />
+			<img class="pic" src="images/pic.png" />
 		</div>
 	</div>
 	</body>
