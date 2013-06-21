@@ -55,12 +55,12 @@ body {
 	font-size: 14px;
 	background-color: gray;
 	font-family: arial, helvetica;
-	background-image: url('/images/pw_maze_white.png');
+	background-image: url('images/pw_maze_white.png');
 }
 .containment {
 	width: 1000px;
 	height:650px;
-	background-image: url('/images/habitat.jpg');
+	background-image: url('images/habitat.jpg');
 	background-repeat: no-repeat;
 	background-size: 1100px 650px;
 	margin-left: auto;
@@ -99,7 +99,7 @@ body {
 	margin-left: 50px;
 }
 .bubble {
-	background-image: url('/images/speakbubble.png');
+	background-image: url('images/speakbubble.png');
 	background-repeat: no-repeat;
 	background-size: 250px;
 	height: 400px;
