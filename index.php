@@ -6,7 +6,6 @@
     <link rel="stylesheet" href="style.css">
   </head>
 	<body>
-		<?php include_once ("analytics.php") ?>
 	<div class="containment">
 		<div class="form">
 		<form action="rex.php" method="post">
